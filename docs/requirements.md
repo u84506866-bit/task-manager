@@ -1,23 +1,23 @@
 Requirement List:
 	
-	1- Dashboard:
+    1- Dashboard:
 
-		*- where it will show username of the person  along with the time date
-		*- it will have a total responsibility counter
-		*- total messages counter
-		*- a brief explanation of the tasts that should be done today
-		*- a timer to focus
-		*- procedure and work tracking model
-		*- a side bar
+	*- where it will show username of the person  along with the time date
+	*- it will have a total responsibility counter
+	*- total messages counter
+	*- a brief explanation of the tasts that should be done today
+	*- a timer to focus
+	*- procedure and work tracking model
+	*- a side bar
 
-	2- responsiblities:
+    2- responsiblities:
 	
-		*- stored responsibilities that each of them by title and contain some tasks
+	*- stored responsibilities that each of them by title and contain some tasks
         *- sorts based on their criticality and situation
 
-	3- Projects:
+    3- Projects:
 
-		*- it divides the projects by their different companies that ordered them
+	*- it divides the projects by their different companies that ordered them
         *- it determies at which step they are what they will be doing next
         *- it has a circle diagram estimating how much of the work has been done
         *- it also shows how many people are part of the team and their names and profile
